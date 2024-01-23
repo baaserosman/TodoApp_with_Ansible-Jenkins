@@ -106,7 +106,7 @@ In the architecture, you can configure your architecture with these conditions,
 ## Project Skeleton
 
 ```bash
-208:clarusway_jenkins_project (folder)
+jenkins_project (folder)
 |
 |----Readme.md                  # Given to the students (Definition of the project)
 |----dockerfile-postgresql      # Given to the students
